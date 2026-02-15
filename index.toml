@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "e71c04679ff75573cd8ef1003eb167830f794b8979f2bdd3c99d28793f2918b0"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "394030f614ec2081350023cc8f8b25f8210894bb8950da36f8364a8fe8893a6e"
 metafile = true
@@ -128,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "49e60e67eff7854052e260a9747a73bc818901c6be87d92060ea163b11f3b00e"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
 metafile = true
 
 [[files]]
