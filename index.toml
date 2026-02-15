@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "394030f614ec2081350023cc8f8b25f8210894bb8950da36f8364a8fe8893a6e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "b40f32455fd3c28328d8d7df7764ab2208c101da712f739bcf30aee9ebecffbe"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "3a02350eeeaa1e86caa88a29c3cd3961e08a07ae33d49b1a85de58d4e58f96cd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "dc2222f80d2bffd28cecbebecb3b024e6d52ac49375f0407422e5249491a2ac6"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "c698766bdbac77ecb3ea9b9bb832cd625f6cf04f60fa0df851a5737bdffa8268"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "21caf1cc09d510a23284e704cb5211408085d5964e5d6ca129fc0dc175c8fb79"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "3e1fa6022713505134e045b9713884cb235f3639ea12e7dc64f5f2c39520be85"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "a62d7893eae9d5713dbe9c844b2bb9eba53157743c47b6e8abcbdd9075264cc9"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "fb952e6a0454ecbcdc40ed90b9cf7a7c8a9f86234f6b753743dfbba32b7e8535"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "70cd30931bd186fd3f9770062dd998774ac9e1c0cf478938a62d5815ffdcfe5b"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "9472dc630ee1dc9a345f49669323e1688c26662cee1fb6a2bb336e84a5dd0fd4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a61e5977069e33bcb8792164947c214322b115f85ee64187292a527598a0248a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "083897a9e8b043d2794d0ee05ffb01e54236f7264fabf852efb2bb8d37c5bdc6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Hardcore Vanilla+"
+author = "charley"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a1e54daa2f9c429f9bfd3b4221d38a3a6698158da3e55f51c3f50832492f6597"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
