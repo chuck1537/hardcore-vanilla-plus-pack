@@ -26,6 +26,11 @@ hash = "a4fa394020116893d1d6bbea9ef304fe3fea55348c81a7cd62de3ccba55adadd"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "e1dce0606ea83226c448a30dfef8233a1952ee81c5d9395391e569cbbf98fb13"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "b40f32455fd3c28328d8d7df7764ab2208c101da712f739bcf30aee9ebecffbe"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "3a02350eeeaa1e86caa88a29c3cd3961e08a07ae33d49b1a85de58d4e58f96cd"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "8ef520176cef9d8f5c8fa419ecdcda2b7ad5665e65517fb6d69bde78cba39305"
 metafile = true
 
 [[files]]
@@ -46,8 +56,28 @@ hash = "dc2222f80d2bffd28cecbebecb3b024e6d52ac49375f0407422e5249491a2ac6"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "2a421f249e7022255938fafdebf4a9d6490d62aecbabd48a9e9a3e52aacd4d0b"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7e1f5788188341d69aa19bb057065d451fab494d002f96a1d92dbf5d7f3b5d2d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d2551922e217952f0bcc574427916b2c3f8e27b145532a2469f407285004b596"
 metafile = true
 
 [[files]]
@@ -76,6 +106,11 @@ hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
@@ -83,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "bef0d78723bcf15335544a175244cb43416a58977e2b7551a7b5200a85af3bfa"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
@@ -106,6 +146,11 @@ hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "113af68f0f6a6490c66b13bd0f2641ecacbb5320b930cc0bc5574dcc8f070474"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
@@ -116,8 +161,18 @@ hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "cda48efd057d3682a962ddc1149486500f394fb8f1be98f5101658795a2020e9"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "49e60e67eff7854052e260a9747a73bc818901c6be87d92060ea163b11f3b00e"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "526836880e4bfb6f98fad732b2aa5a2b7d4ea6cbe9238be6a956f82472e9b934"
 metafile = true
 
 [[files]]
@@ -133,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e539e6f1ae3fd100735d81fa369d5de6867598b1fef836708bf4b235ce2083d6"
 metafile = true
 
 [[files]]
@@ -168,6 +228,26 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "9472dc630ee1dc9a345f49669323e1688c26662cee1fb6a2bb336e84a5dd0fd4"
+metafile = true
+
+[[files]]
+file = "mods/visual-overhaul.pw.toml"
+hash = "baedebbba16493de11ce22862829fc54de44bd6ecbb5b198b28f5c68b197be3b"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "d44e2b5db1fb0c90d9ec5f25a153a437ea71c59a499491b6d639fff69cec8ba4"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "3f5679e5212d0cb5e6700b4d13001d435e60fb9151121e01f83d9f10d296eba5"
 metafile = true
 
 [[files]]
