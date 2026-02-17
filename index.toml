@@ -181,18 +181,8 @@ hash = "49e60e67eff7854052e260a9747a73bc818901c6be87d92060ea163b11f3b00e"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
-metafile = true
-
-[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "526836880e4bfb6f98fad732b2aa5a2b7d4ea6cbe9238be6a956f82472e9b934"
-metafile = true
-
-[[files]]
-file = "mods/particulate.pw.toml"
-hash = "91a17060e3098dacd6fc0ac289d9c71f1109277dbc97dc3c098111edaada0c4d"
 metafile = true
 
 [[files]]
