@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "394030f614ec2081350023cc8f8b25f8210894bb8950da36f8364a8fe8893a6e"
 metafile = true
@@ -41,13 +46,28 @@ hash = "3a02350eeeaa1e86caa88a29c3cd3961e08a07ae33d49b1a85de58d4e58f96cd"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "8ef520176cef9d8f5c8fa419ecdcda2b7ad5665e65517fb6d69bde78cba39305"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "e3c37ed18f53e994c58b92cc64e71b63a25a75d6c5581156b7b96bc5985fb0d9"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
@@ -58,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
 metafile = true
 
 [[files]]
@@ -156,8 +181,18 @@ hash = "49e60e67eff7854052e260a9747a73bc818901c6be87d92060ea163b11f3b00e"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "526836880e4bfb6f98fad732b2aa5a2b7d4ea6cbe9238be6a956f82472e9b934"
+metafile = true
+
+[[files]]
+file = "mods/particulate.pw.toml"
+hash = "91a17060e3098dacd6fc0ac289d9c71f1109277dbc97dc3c098111edaada0c4d"
 metafile = true
 
 [[files]]
@@ -213,11 +248,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "9472dc630ee1dc9a345f49669323e1688c26662cee1fb6a2bb336e84a5dd0fd4"
-metafile = true
-
-[[files]]
-file = "mods/visual-overhaul.pw.toml"
-hash = "baedebbba16493de11ce22862829fc54de44bd6ecbb5b198b28f5c68b197be3b"
 metafile = true
 
 [[files]]
