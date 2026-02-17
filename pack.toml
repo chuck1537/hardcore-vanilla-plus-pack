@@ -1,12 +1,12 @@
 name = "Hardcore Vanilla+"
 author = "charley"
-version = "1.3.0"
+version = "1.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f441f0457dda5506608f929a9d3c8bac01292c0910c40376199afbaadb3449b7"
+hash = "ce7e889447969510465f9a765090542637a2c9d45a8a0a154997b2484aa48200"
 
 [versions]
 fabric = "0.18.4"

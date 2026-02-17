@@ -1,0 +1,13 @@
+name = "LEGENDARY RT JAVA TEXTURES"
+filename = "LRT - Java Texture Pack - RT28.5 - 128x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/doORjuN5/versions/vPw80oBR/LRT%20-%20Java%20Texture%20Pack%20-%20RT28.5%20-%20128x.zip"
+hash-format = "sha512"
+hash = "9d4ba93eaec565d55b2302a02d1e6b6a56ad9ece63f7110bd46c3035dbb9b404ac9511b8b8720579c19806223560c826c55eb8fa6122d687ff1c01f3af8565c8"
+
+[update]
+[update.modrinth]
+mod-id = "doORjuN5"
+version = "vPw80oBR"

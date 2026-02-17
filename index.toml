@@ -61,11 +61,6 @@ hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "2a421f249e7022255938fafdebf4a9d6490d62aecbabd48a9e9a3e52aacd4d0b"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7e1f5788188341d69aa19bb057065d451fab494d002f96a1d92dbf5d7f3b5d2d"
 metafile = true
@@ -271,6 +266,21 @@ hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/legendary-rt-textures.pw.toml"
+hash = "f214a47ce4bdefccd62c461e4157ed02ba4535610fe9b171e357c72fac4f901c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/optimum-realism.pw.toml"
+hash = "d8b6f6a83b4c6cef787c7ca07ac94ee44356da6cebc7770007e4af99ea527aa2"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
 metafile = true
