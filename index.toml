@@ -281,6 +281,21 @@ hash = "d8b6f6a83b4c6cef787c7ca07ac94ee44356da6cebc7770007e4af99ea527aa2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/patrix-32x.pw.toml"
+hash = "693c9bc1a7244a8c369b23d7fe5535cfd630d9d526c02213fbda6157e0ab563c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/prettyrealistic.pw.toml"
+hash = "9d24bad8d5d1abd325d0e5d40cf8dfa4a7e100dcd1b6428731e5f3d6fa3f56f6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true

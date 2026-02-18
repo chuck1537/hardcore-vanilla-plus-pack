@@ -1,0 +1,13 @@
+name = "PrettyRealistic PBR"
+filename = "Pretty Realistic v0.37 [32x] Free.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDGgVA6Q/versions/oEukv266/Pretty%20Realistic%20v0.37%20%5B32x%5D%20Free.zip"
+hash-format = "sha512"
+hash = "9a55e61b66f8c295055560ba11c3f6291c7dba9df04543f8abe3aeeb5828b1b6416452ee1613a95b63bdc34dbc961969faabbca46394ef2e40077108de94d64f"
+
+[update]
+[update.modrinth]
+mod-id = "nDGgVA6Q"
+version = "oEukv266"
